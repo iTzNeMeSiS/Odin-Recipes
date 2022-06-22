@@ -14,5 +14,5 @@ After completing this project, I have accomplished:
     Properly implemented various types of CSS selectors and inheritance.
 
 Skills learned in this project:<br>
-![alt git logo](git.png)
+![alt git logo](git.png) ![alt html logo](html.png) ![alt css logo](css.png) ![alt vscode logo](vscode.png)
 Source of project: https://www.theodinproject.com/paths/foundations/courses/foundations
