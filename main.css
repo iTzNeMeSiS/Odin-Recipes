@@ -1,0 +1,50 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 10px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+  }
+  .grid-item {
+    padding: 30px;
+    font-size: 25px;
+  }
+
+body {
+    text-align: center;
+}
+div {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.ingredients,
+.steps {
+    text-align: left;
+}
+.img-desc {
+    padding-left: 15%;
+    padding-right: 15%;
+    font-size: 20px;
+}
+.back {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.title {
+    color: #f00;
+    padding-top: 2%;
+}
+.header {
+    border-bottom: 1px solid #e6e6e6;
+    height: auto;
+}
+footer {
+    border-top: 1px solid #e6e6e6;
+    height: 100px;
+}
+.copyright {
+    margin-top: 50px;
+}
+.logo {
+    margin-right: -5%;
+}
