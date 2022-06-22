@@ -13,6 +13,6 @@ After completing this project, I have accomplished:
     Linked a CSS stylesheet to the HTML files
     Properly implemented various types of CSS selectors and inheritance.
 
-Skills learned in this project:
+Skills learned in this project:<br>
 ![alt git logo](git.png)
 Source of project: https://www.theodinproject.com/paths/foundations/courses/foundations
