@@ -15,5 +15,5 @@ After completing this project, I have accomplished:
 
 Skills learned in this project:
 ![alt text](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png)
-![alt git logo](/odin-recipes/blob/main/resources/git.jpg)
+![alt git logo](/resources/git.jpg)
 Source of project: https://www.theodinproject.com/paths/foundations/courses/foundations
