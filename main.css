@@ -34,6 +34,9 @@ body {
     .logo {
         padding-left: 15%;
     }
+    .cards {
+        grid-gap: 3rem;
+      }
 }
 
 div {
