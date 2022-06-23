@@ -10,7 +10,7 @@ body {
 .card {
   padding: 1rem;
   border: 1px solid #c8c8c8;
-  height: auto;
+  height: 255px;
   box-shadow: 3px 3px 3px 3px #c8c8c8;
 }
 
