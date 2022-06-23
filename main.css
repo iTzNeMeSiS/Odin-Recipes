@@ -23,22 +23,6 @@ body {
     font-size: 20px;
 }
 
-/* Screen larger than 600px? 2 column */
-@media (min-width: 600px) {
-  .cards { grid-template-columns: repeat(2, 1fr); }
-}
-@media (max-width: 600px) {
-    #pad {
-        padding-bottom: 10%;
-    }
-    .logo {
-        padding-left: 15%;
-    }
-    .cards {
-        grid-gap: 3rem;
-      }
-}
-
 div {
     padding-left: 10%;
     padding-right: 10%;
@@ -75,3 +59,19 @@ footer {
 .logo {
     margin-left: 2%;
 }
+/* Screen larger than 600px? 2 column */
+@media (min-width: 600px) {
+    .cards { grid-template-columns: repeat(2, 1fr); }
+  }
+  /* Screen smaller than 600px */
+  @media (max-width: 600px) {
+      #pad {
+          padding-bottom: 10%;
+      }
+      .logo {
+          padding-left: 15%;
+      }
+      .cards {
+          grid-gap: 3rem;
+        }
+  }
