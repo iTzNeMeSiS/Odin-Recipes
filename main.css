@@ -11,6 +11,7 @@ body {
   padding: 1rem;
   border: 1px solid #c8c8c8;
   height: auto;
+  box-shadow: 3px 3px 3px 3px #c8c8c8;
 }
 
 .cards {
