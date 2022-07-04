@@ -16,6 +16,11 @@ After completing this project, I have accomplished:
 Skills learned in this project:<br>
 ![alt html logo](/resources/html.png) ![alt css logo](/resources/css.png) ![alt git logo](/resources/git.png) ![alt vscode logo](/resources/vscode.png)<br>
 
+
 Live Preview: https://itznemesis.github.io/Odin-Recipes/
 
 Source of project: https://www.theodinproject.com/paths/foundations/courses/foundations
+
+Preview:
+
+![alt Odin-Recipes Preview](/resources/preview.png)
